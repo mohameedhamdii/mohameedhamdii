@@ -79,12 +79,7 @@ My work focuses on **microcontrollers, embedded Linux, edge AI, computer vision,
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohameedhamdii&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameedhamdii&layout=compact&hide_border=true" height="170"/>
-</p>
+![snake](https://raw.githubusercontent.com/mohameedhamdii/mohameedhamdii/output/snake.svg)
 
 ---
 
@@ -123,7 +118,7 @@ Robotics
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-amine-hamdi-26358127">
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamdi-26358127b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Hammah1msi@gmail.com">
